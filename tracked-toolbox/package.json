@@ -51,11 +51,6 @@
   "overrides": {
     "ember-source": "*"
   },
-  "peerDependenciesMeta": {
-    "ember-source": {
-      "optional": true
-    }
-  },
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
